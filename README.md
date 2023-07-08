@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuna Yavuz</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Unity,Unreal Engine,C++**
+- 🌱 I’m currently learning **Unity,Pyhton,Machine Learning**
 
 - 📫 How to reach me **tunayavuz.95@hotmail.com**
 
